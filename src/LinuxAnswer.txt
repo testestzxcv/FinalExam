@@ -1,0 +1,17 @@
+과목명 : Linux Administration
+수강생 이름 : 유승열
+
+Q1. 
+ls -al /var/log > log_dir.txt
+
+Q2.
+-name
+
+Q3.
+df
+
+Q4.
+cat
+
+Q5.
+passwd
